@@ -58,3 +58,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aman_1206/)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aman_1206?theme=dark&font=Karma)
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-a1439a282/)
