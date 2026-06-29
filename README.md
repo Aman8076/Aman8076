@@ -39,13 +39,6 @@
 
 - GitHub: https://github.com/Aman8076
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman8076&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman8076&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 
