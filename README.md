@@ -53,7 +53,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Aman8076&label=Profile%20Views&color=blue)
 
-## 🧩 LeetCode
+## 🧩 Connect with Me
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aman_1206/)
 
