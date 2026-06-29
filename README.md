@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Aman Sharma
 
-<!--
-**Aman8076/Aman8076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+🎓 ECE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Data Structures & Algorithms
+
+🌱 Currently learning
+- MERN
+- DSA
+
+🎯 Preparing for Software Engineering
+
+---
+
+## 🛠️ Languages & Tools
+
+- C++
+- Git
+- GitHub
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+
+---
+
+## 📚 Current Focus
+
+- 🚀 LeetCode
+- 🌐 Mern Projects
+- 📖 DSA
+- 💼 Placement Preparation
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Aman8076
