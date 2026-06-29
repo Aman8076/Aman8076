@@ -56,3 +56,5 @@
 ## 🧩 LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aman_1206/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Aman_1206?theme=dark&font=Karma)
