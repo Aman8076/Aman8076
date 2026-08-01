@@ -7,23 +7,28 @@
 💻 Passionate about Data Structures & Algorithms
 
 🌱 Currently learning
+- mongo
 - MERN
 - DSA
+- Git & Github
 
-🎯 Preparing for Software Engineering
+🎯 Goal 
+Software Engineering
 
 ---
 
 ## 🛠️ Languages & Tools
 
-- C++
-- Git
-- GitHub
-- React.js
-- Node.js
-- MongoDB
-- Express.js
-
+-C++
+-HTML
+-CSS
+-JavaScript
+-React.js
+-MongoDB
+-Express.js
+-Node.js
+-Git
+-GitHub
 ---
 
 ## 📚 Current Focus
